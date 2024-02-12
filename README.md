@@ -6,8 +6,8 @@ Proyecto Integrador para el modulo 5 de ciencia de datos.
 
 ## Objetivo
 
-Este proyecto tiene como objetivo analizar el mercado actual de videojuegos con el fin de identificar posbiles nichos, en donde se puden desarrollar nuevos productos
-Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un grupo inversor dispuesto a invertir en el desarrollo de nuevos productos.
+El objetivo de este trabajo es aplicar los conceptos y técnicas aprendidos en el modulo. Con este fin, se llevara a cabo un análisis de el mercado actual de videojuegos con el fin de identificar posbiles nichos, en donde se puden desarrollar nuevos productos
+
 
 
 ### Preguntas
@@ -20,9 +20,9 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 - ¿Podemos determinar algo con respecto a los rangos etarios u otras características demográficas?
 - ¿Podemos estimar las ventas de los juegos actuales o al menos de una categoría? Shooters por ejemplo.
 
-### Datasets.
+### Estructura.
 
-En esta carpeta encontramos los archivos .csv y .xlsx obtenidos para la realización del análisis. Estos son:
+En la carpete [Datasets] (https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/tree/main/Datasets) encontramos los archivos .csv y .xlsx obtenidos para la realización del análisis. Estos son:
 - Indicadores_desarrollo_humano. El cual contiene informacion sobre INB per cápita de diferentes regiones.
 - Console_sales. Contiene datos sobre ventas anuales de consolas.
 - Juegos en steam. Contiene reporte con estadísticas de uso de juegos en Steam.
