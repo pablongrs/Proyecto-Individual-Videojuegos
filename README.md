@@ -14,6 +14,8 @@ En la carpeta [Datasets](https://github.com/pablongrs/Proyecto-Integrador-Videoj
 - Juegos en steam. Contiene reporte con estadísticas de uso de juegos en Steam.
 - Video games sales. Contiene datos sobre ventas y caracteristicas de los juegos.
 
+El archivo "Proyecto-Gaming" contiene el dashboard donde se realizó el análisis y las visualizaciones.
+
 ### Preguntas
 
 - ¿Qué análisis podemos hacer del mercado actual?
