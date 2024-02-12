@@ -15,3 +15,7 @@ Analizar el mercado de videojuegos, con el objetivo de identificar posibles nich
 - ¿En qué regiones conviene enfocarse?
 - ¿Podemos determinar algo con respecto a los rangos etarios u otras características demográficas?
 - ¿Podemos estimar las ventas de los juegos actuales o al menos de una categoría? Shooters por ejemplo.
+
+  ### Sobre el proyecto.
+
+En la carpeta "Datasets" encontramos los archivos .csv y .xlsx obtenidos para la realización del análisis
