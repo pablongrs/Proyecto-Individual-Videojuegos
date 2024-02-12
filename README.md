@@ -20,7 +20,7 @@ Encontrar los insights y presentarlos, suponiendo que nuestra audiencia se un gr
 - ¿Podemos determinar algo con respecto a los rangos etarios u otras características demográficas?
 - ¿Podemos estimar las ventas de los juegos actuales o al menos de una categoría? Shooters por ejemplo.
 
-  ### Datasets.
+### Datasets.
 
 En esta carpeta encontramos los archivos .csv y .xlsx obtenidos para la realización del análisis. Estos son:
 - Indicadores_desarrollo_humano. El cual contiene informacion sobre INB per cápita de diferentes regiones.
