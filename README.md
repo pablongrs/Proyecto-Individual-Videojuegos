@@ -26,5 +26,8 @@ En la carpeta [Datasets](https://github.com/pablongrs/Proyecto-Integrador-Videoj
 
 ## Sobre el proyecto
 
-Utilizando Power BI, se llevó a cabo la lectura de los datasets presentados. Luego, se realizó un análisis exploratorio de datos para comprender mejor la estructura y contenido de los mismos. Como siguiente paso, se inició el proceso de limpieza y normalización de las tablas de datos, Para luego realizar las visualizaciones.
+Utilizando Power BI, se llevó a cabo la lectura de los datasets presentados. Luego, se realizó un análisis exploratorio de datos para comprender mejor la estructura y contenido de los mismos. Como siguiente paso, se inició el proceso de limpieza y normalización de las tablas de datos, para luego realizar las visualizaciones.
+
+El dashboard consta de 1 portada y 6 paginas navegables.
+
 
