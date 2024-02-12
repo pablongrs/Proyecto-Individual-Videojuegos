@@ -24,3 +24,7 @@ En la carpeta [Datasets](https://github.com/pablongrs/Proyecto-Integrador-Videoj
 - ¿Podemos determinar algo con respecto a los rangos etarios u otras características demográficas?
 - ¿Podemos estimar las ventas de los juegos actuales o al menos de una categoría? Shooters por ejemplo.
 
+## Sobre el proyecto
+
+Utilizando Power BI, se llevó a cabo la lectura de los datasets presentados. Luego, se realizó un análisis exploratorio de datos para comprender mejor la estructura y contenido de los mismos. Como siguiente paso, se inició el proceso de limpieza y normalización de las tablas de datos, Para luego realizar las visualizaciones.
+
