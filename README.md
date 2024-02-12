@@ -37,6 +37,7 @@ El dashboard consta de 1 portada y 6 paginas navegables, las cuales muestran inf
 ## Conclusion
 
 Tras analizar diferentes aspectos del mercado de videojuegos, se ha llegado a varias conclusiones. En primer lugar, se observa una tendencia de disminución en las ventas anuales de videojuegos a nivel global. Sin embargo, se identifican dos regiones clave, América del Norte y la Unión Europea, que se destacan tanto en ventas totales como en ventas por plataforma.
+
 Al examinar las preferencias de género de los juegos en función del rango etario, vemos que los adolescentes y adultos jóvenes tienden a preferir juegos de acción y shooters, mientras que el género de deportes es popular entre el grupo "Everyone".
 
 Teniendo en cuenta esto es evidente que concentrarse en América del Norte y la Unión Europea resulta ser una estrategia acertada para obtener éxito en el mercado.
