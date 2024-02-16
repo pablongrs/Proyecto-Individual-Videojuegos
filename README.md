@@ -38,6 +38,16 @@ El dashboard consta de 1 portada y 6 paginas navegables, las cuales muestran inf
 <summary>  <h3> Screenshot </h3> </summary>
 <br>
 <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%201.jpg" alt="Pregunta 1">
+  <br>
+  <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%202.jpg" alt="Pregunta 2">
+  <br>
+  <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%203.jpg" alt="Pregunta 3">
+  <br>
+  <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%204.jpg" alt="Pregunta 4">
+  <br>
+  <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%205.jpg" alt="Pregunta 5">
+  <br>
+  <img src="https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%206.jpg" alt="Pregunta 6">
 </details>
 
 ## Conclusion
