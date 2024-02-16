@@ -32,7 +32,7 @@ Utilizando Power BI, se llevó a cabo la lectura de los datasets presentados. Lu
 
 El dashboard consta de 1 portada y 6 paginas navegables, las cuales muestran informacion sobre el análisis del mercado actual de videouegos.
 
-![Portada](https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/Portada.jpg)
+![Portada](https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/portada.jpg)
 
 ## Conclusion
 
