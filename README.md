@@ -9,7 +9,7 @@ El objetivo de este trabajo es aplicar los conceptos y técnicas aprendidos en e
 ### Estructura.
 
 En la carpeta [Datasets](https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/tree/main/Datasets) encontramos los archivos .csv y .xlsx obtenidos para la realización del análisis. Estos son:
-- Indicadores_desarrollo_humano. El cual contiene informacion sobre INB per cápita de diferentes regiones.
+- Indicadores_desarrollo_humano. El cual contiene datos sobre INB per cápita de diferentes regiones.
 - Console_sales. Contiene datos sobre ventas anuales de consolas.
 - Juegos en steam. Contiene reporte con estadísticas de uso de juegos en Steam.
 - Video games sales. Contiene datos sobre ventas y caracteristicas de los juegos.
