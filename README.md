@@ -37,7 +37,7 @@ El dashboard consta de 1 portada y 6 paginas navegables, las cuales muestran inf
 <details>
 <summary>  <h3> Screenshot </h3> </summary>
 <br>
-This is how you dropdown.
+![Pregunta-1](https://github.com/pablongrs/Proyecto-Integrador-Videojuegos/blob/main/img/Pregunta%201.jpg)
 </details>
 
 ## Conclusion
