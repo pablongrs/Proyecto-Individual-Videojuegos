@@ -4,7 +4,7 @@ Proyecto Integrador para el modulo 5 de ciencia de datos.
 
 ## Objetivo
 
-El objetivo de este trabajo es aplicar los conceptos y técnicas aprendidos en el modulo. Con este fin, se llevara a cabo un análisis de el mercado actual de videojuegos con el fin de identificar posbiles nichos, en donde se puden desarrollar nuevos productos
+El objetivo de este trabajo es aplicar los conceptos y técnicas aprendidos en el modulo. Con este fin, se llevara a cabo un análisis de el mercado actual de videojuegos con el fin de identificar posibles nichos, en donde se puden desarrollar nuevos productos
 
 ### Estructura.
 
